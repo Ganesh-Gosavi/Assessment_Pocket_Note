@@ -1,0 +1,16 @@
+.noteNotSelected{
+    display: none;
+}
+.pageContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.noteImg{
+    width: 420px;
+    height: 260px;
+ }
+ 

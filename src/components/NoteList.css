@@ -1,0 +1,49 @@
+.noteListContainer {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1.6rem;
+  overflow-y: scroll;
+  scrollbar-width: thin;
+  scrollbar-color: red;
+  height: 100vh;
+  width: 400px;
+}
+
+.appName {
+  position: sticky;
+  top: 0;
+  /* background-color: transparent; */
+  padding: 1rem;
+  width: 100%;
+  text-align: center;
+  z-index: 2;
+}
+
+.noteList {
+  width: 90%;
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.noteListCreateBtn {
+  position: relative;
+}
+
+.createBtn {
+  height: 70px;
+  width: 70px;
+  padding-top: 1rem;
+  text-align: center;
+  background-color: #16008b;
+  border-radius: 100%;
+  color: white;
+  font-size: 30px;
+  position: fixed;
+  bottom: 130px;
+  left: 260px;
+}

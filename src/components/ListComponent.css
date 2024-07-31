@@ -1,0 +1,27 @@
+
+.nameIcon{
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+   justify-content: left;
+   padding: .5rem;
+ }
+ .nameIcon:hover{
+    background-color: #b4aeae2b;
+    border-radius: 10px;
+    width: 100%;
+ }
+ 
+ .profileIcon{
+     width: 50px;
+     height: 50px;
+     border-radius: 100%;
+     padding-left: .82rem;
+     padding-top: .95rem;
+     color: white;
+ }
+ .active{
+    background-color: #2F2F2F2B;
+ }
+
+ 
