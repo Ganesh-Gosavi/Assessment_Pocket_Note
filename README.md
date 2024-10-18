@@ -58,6 +58,13 @@ Ensure you have the following installed on your local development environment:
 - **Adding Notes**: Click on a group to add notes to it.
 - **Navigating**: Use the scrollbar in the sidebar to navigate through different groups and notes.
 
+## Screenshots
+
+![App Screenshot](./PocketNote/ss1.png)
+
+![App Screenshot](./PocketNote/ss2.png)
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
